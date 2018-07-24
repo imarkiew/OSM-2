@@ -1,4 +1,8 @@
-﻿## osm17L_projekt2
+The system uses the JavaFX library, the JDBC interface and the Derby database. To log in to the created database, you must provide as stated (doct1, eee) or (doct2, ppp).
+Cooperation with Łukasz Kotlewski.
+
+## [PL]
+## osm17L_projekt2
 
 **Przedmiot:** OSM
 
